@@ -1,5 +1,5 @@
-# Insertion-Sort-Projesi
- *   [22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamalarını yazınız
+# Insertion-Sort-Projesi www.patika.dev 
+*   [22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamalarını yazınız
 
  ```
  [22,27,16,2,18,6] n
